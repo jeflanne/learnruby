@@ -17,4 +17,3 @@ class TestConverter<Test::Unit::TestCase
 
   end
 end
-
